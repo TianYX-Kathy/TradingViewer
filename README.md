@@ -11,8 +11,8 @@
 
 ---
 ## ✨ 共创者
-- [@Yize]([https://github.com/zhangsan](https://github.com/tuyize0))
-- [@Yuhang]([https://github.com/lisi](https://github.com/yetsoclose260))
+- [@Yize](https://github.com/tuyize0)
+- [@Yuhang](https://github.com/yetsoclose260)
 
 ## 中文
 
