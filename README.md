@@ -3,10 +3,14 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://www.microsoft.com/windows)
 
 [English](#english) | [中文](#中文)
+
+
+## ✨ 共创者
+- [@Yize]([https://github.com/zhangsan](https://github.com/tuyize0))
+- [@Yuhang]([https://github.com/lisi](https://github.com/yetsoclose260))
 
 </div>
 
